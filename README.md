@@ -1,1 +1,2 @@
 # amaze
+this is documentation
